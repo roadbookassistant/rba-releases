@@ -1,9 +1,25 @@
 {
   "catalogues": [
     {
+      "id": "essentiel",
+      "nom": "Essentiel — les 49 pictos les plus utilisés",
+      "description": "Fléchage, sécurité, véhicules, course, public, danger, décor et étiquettes : l'indispensable. Les autres pictos restent dans « Tous » et dans le catalogue complet.",
+      "disciplines": [
+        "route_ch",
+        "route_reg",
+        "tt_ch",
+        "tt_reg",
+        "vhc",
+        "rando",
+        "roadtrip",
+        "autre"
+      ],
+      "fichier": "essentiel.json"
+    },
+    {
       "id": "rallye_rts_ffsa",
-      "nom": "Rallye — pictos RTS FFSA (base RBA)",
-      "description": "Les pictogrammes d'origine de RBA, tirés des RTS Rallyes FFSA. Remet les noms et catégories d'origine.",
+      "nom": "Complet — tous les pictos RTS FFSA",
+      "description": "Les 149 pictogrammes de RBA, tirés des RTS Rallyes FFSA, avec les noms et catégories d'origine.",
       "disciplines": [
         "route_ch",
         "route_reg",
