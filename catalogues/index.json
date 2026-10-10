@@ -1,0 +1,20 @@
+{
+  "catalogues": [
+    {
+      "id": "rallye_rts_ffsa",
+      "nom": "Rallye — pictos RTS FFSA (base RBA)",
+      "description": "Les pictogrammes d'origine de RBA, tirés des RTS Rallyes FFSA. Remet les noms et catégories d'origine.",
+      "disciplines": [
+        "route_ch",
+        "route_reg",
+        "tt_ch",
+        "tt_reg",
+        "vhc",
+        "rando",
+        "roadtrip",
+        "autre"
+      ],
+      "fichier": "rallye_rts_ffsa.json"
+    }
+  ]
+}
