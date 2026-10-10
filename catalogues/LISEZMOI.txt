@@ -1,0 +1,7 @@
+Catalogues de pictos publiés sur GitHub (dépôt rba-releases, dossier catalogues).
+Pour ajouter un catalogue (par exemple « Rallye route ») :
+ 1. Dans RBA, prépare la palette (catégories, noms, images), puis Paramètres › Catalogue › Exporter.
+ 2. Renomme le fichier, par exemple rallye_route.json, et mets-le dans ce dossier.
+ 3. Ajoute une entrée dans index.json (id, nom, description, disciplines, fichier).
+ 4. Relance PUBLIER_LA_VERSION.bat : les catalogues sont envoyés en même temps.
+Codes de disciplines : route_ch, route_reg, tt_ch, tt_reg, vhc, rando, roadtrip, autre.
